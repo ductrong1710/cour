@@ -1,0 +1,54 @@
+<!DOCTYPE html>↩
+<html lang="en">↩
+<head>↩
+    <meta charset="UTF-8">↩
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">↩
+    <meta name="description" content="A sample website with semantic tags, images, and a list.">↩
+    <title>Sample Website</title>↩
+</head>↩
+<body>↩
+↩
+    <!-- Header section with an h1 -->↩
+    <header>↩
+        <h1>Welcome to Đức Trọng Website</h1>↩
+    </header>↩
+↩
+    <!-- Main content with images, a list, and a link -->↩
+    <main>↩
+        <section>↩
+            <h2>About this page</h2>↩
+            <p>This is a simple webpage that uses semantic HTML elements.</p>↩
+        </section>↩
+↩
+        <section>↩
+            <h2>Gallery</h2>↩
+            <!-- Including three images -->↩
+            <img src="https://via.placeholder.com/150" alt="Sample Image 1">↩
+            <img src="https://via.placeholder.com/150" alt="Sample Image 2">↩
+            <img src="https://via.placeholder.com/150" alt="Sample Image 3">↩
+        </section>↩
+↩
+        <section>↩
+            <h2>My Favorite Websites</h2>↩
+            <!-- Unordered list with at least three items -->↩
+            <ul>↩
+                <li>Example Website 1</li>↩
+                <li>Example Website 2</li>↩
+                <li>Example Website 3</li>↩
+            </ul>↩
+        </section>↩
+↩
+        <section>↩
+            <h2>Learn More</h2>↩
+            <!-- External link -->↩
+            <p>To learn more about web development, visit <a href="https://developer.mozilla.org/en-US/" target="_blank">MDN Web Docs</a>.</p>↩
+        </section>↩
+    </main>↩
+↩
+    <!-- Footer section -->↩
+    <footer>↩
+        <p>&copy; 2024 My Website</p>↩
+    </footer>↩
+↩
+</body>↩
+</html>
